@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.netlify.steady_torte_dfaec6.twa",
+      "sha256_cert_fingerprints": [
+        "E4:DA:08:41:E7:53:7D:93:68:21:51:3B:A4:27:CD:7A:A2:A4:A1:AB"
+      ]
+    }
+  }
+]
